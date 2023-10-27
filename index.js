@@ -4,6 +4,6 @@ contentCreate(rem)
 // i18n.getTra().forEach(e => {
 //     console.log(e)
 // });
-console.log(i18n.createMessagesJSON())
+// console.log(i18n.createMessagesJSON())
 await i18n.setLanguage("no")
 i18n.tranlatePage()
