@@ -1,0 +1,50 @@
+{
+  "<title>School</title>": {
+      "message": "<title>Skole</title>"
+  },
+  "School": {
+      "message": "Skole"
+  },
+  "Hello there 😺": {
+      "message": "Hei der 😺"
+  },
+  "This webpage is for students to see documentation, tools, games, projects and exceedra from school.": {
+      "message": "Denne siden er for studenter for å se dokumentasjon, verktøy, spill, prosjekter and så vider fra skole."
+  },
+  "Hope this is useful for you!": {
+      "message": "Hope this is useful for you!"
+  },
+  "Main Pages": {
+      "message": "Hovud side"
+  },
+  "Settings": {
+      "message": "Settings"
+  },
+  "Math": {
+      "message": "Matte"
+  },
+  "English": {
+      "message": "Engelsk"
+  },
+  "Geography": {
+      "message": "Geografi"
+  },
+  "Christianity": {
+      "message": "Kristendom"
+  },
+  "Natural Sciences": {
+      "message": "Naturfag"
+  },
+  "Social Studies": {
+      "message": "Samfunnsfag"
+  },
+  "Spanish": {
+      "message": "Spansk"
+  },
+  "Credits": {
+      "message": "Kredit"
+  },
+  "stio": {
+      "message": "stio"
+  }
+}

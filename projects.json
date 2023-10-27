@@ -1,0 +1,97 @@
+[
+    
+    [
+        {
+            "_projectBoxHeader": "<tra>Main Pages</tra>",
+            "_id": "Main-Pages",
+            "_InsertPosition": "afterBegin"
+        },
+        [
+            {
+                "_projectHeader": "<tra>Settings</tra>",
+                "_link": "https://settings.stio.studio",
+                "_projectType": "C"
+            }
+        ]
+    ],
+    [
+        {
+            "_projectBoxHeader": "<tra>Math</tra>",
+            "_id": "Math",
+            "_InsertPosition": "afterBegin"
+        },
+        [
+        ]
+    ],
+    [
+        {
+            "_projectBoxHeader": "<tra>English</tra>",
+            "_id": "English",
+            "_InsertPosition": "afterBegin"
+        },
+        [
+        ]
+    ],
+    [
+        {
+            "_projectBoxHeader": "<tra>Geography</tra>",
+            "_id": "Geography",
+            "_InsertPosition": "afterBegin"
+        },
+        [
+        ]
+    ],
+    [
+        {
+            "_projectBoxHeader": "<tra>Christianity</tra>",
+            "_id": "Christianity",
+            "_InsertPosition": "afterBegin"
+        },
+        [
+        ]
+    ],
+    [
+        {
+            "_projectBoxHeader": "<tra>Natural Sciences</tra>",
+            "_id": "Natural-Sciences",
+            "_InsertPosition": "afterBegin"
+        },
+        [
+        ]
+    ],
+    [
+        {
+            "_projectBoxHeader": "<tra>Social Studies</tra>",
+            "_id": "Social-Studies",
+            "_InsertPosition": "afterBegin"
+        },
+        [
+        ]
+    ],
+    [
+        {
+            "_projectBoxHeader": "<tra>Spanish</tra>",
+            "_id": "Spanish",
+            "_InsertPosition": "afterBegin"
+        },
+        [
+        ]
+    ],
+    [
+        {
+            "_projectBoxHeader": "<tra>Credits</tra>",
+            "_id": "Credits",
+            "_InsertPosition": "afterBegin",
+            "_class": ["footer"]
+        },
+        [
+            {
+                "_projectHeader":"<tra>stio</tra>",
+                "_link": "https://stio.studio",
+                "_projectContentImageLink": "https://asset.stio.studio/logo/stio/transparent/1600x1600.gif",
+                "_projectContentImageLinkAlt": "stio's pfp",
+                "_projectType": "A"
+            }
+        ]
+    ]
+]

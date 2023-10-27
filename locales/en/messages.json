@@ -1,0 +1,50 @@
+{
+  "<title>School</title>": {
+      "message": "<title>School</title>"
+  },
+  "School": {
+      "message": "School"
+  },
+  "Hello there 😺": {
+      "message": "Hello there 😺"
+  },
+  "This webpage is for students to see documentation, tools, games, projects and exceedra from school.": {
+      "message": "This webpage is for students to see documentation, tools, games, projects and exceedra from school."
+  },
+  "Hope this is useful for you!": {
+      "message": "Hope this is useful for you!"
+  },
+  "Main Pages": {
+      "message": "Main Pages"
+  },
+  "Settings": {
+      "message": "Settings"
+  },
+  "Math": {
+      "message": "Math"
+  },
+  "English": {
+      "message": "English"
+  },
+  "Geography": {
+      "message": "Geography"
+  },
+  "Christianity": {
+      "message": "Christianity"
+  },
+  "Natural Sciences": {
+      "message": "Natural Sciences"
+  },
+  "Social Studies": {
+      "message": "Social Studies"
+  },
+  "Spanish": {
+      "message": "Spanish"
+  },
+  "Credits": {
+      "message": "Credits"
+  },
+  "stio": {
+      "message": "stio"
+  }
+}
