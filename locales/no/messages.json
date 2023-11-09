@@ -1,53 +1,56 @@
 {
   "Last Updated: ": {
-    "message": "Sist oppdatert: "
+      "message": "Sist oppdatert: "
   },
   "<title>School</title>": {
-    "message": "<title>Skole</title>"
+      "message": "<title>Skole</title>"
   },
   "School": {
-    "message": "Skole"
+      "message": "Skole"
   },
   "Hello there 😺": {
-    "message": "Hei der 😺"
+      "message": "Hei der 😺"
   },
   "This webpage is for students to see documentation, tools, games, projects and exceedra from school.": {
-    "message": "Denne siden er for studenter for å se dokumentasjon, verktøy, spill, prosjekter og så videre fra skolen."
+      "message": "Denne siden er for studenter for å se dokumentasjon, verktøy, spill, prosjekter og så videre fra skolen."
   },
   "Hope this is useful for you!": {
-    "message": "Håper dette er nyttig for deg!"
+      "message": "Håper dette er nyttig for deg!"
   },
   "Main Pages": {
-    "message": "Hovud side"
+      "message": "Hovud side"
   },
   "Settings": {
-    "message": "Settings"
+      "message": "Settings"
   },
   "Math": {
-    "message": "Matte"
+      "message": "Matte"
   },
   "English": {
-    "message": "Engelsk"
+      "message": "Engelsk"
   },
   "Geography": {
-    "message": "Geografi"
+      "message": "Geografi"
   },
   "Christianity": {
-    "message": "Kristendom"
+      "message": "Kristendom"
   },
   "Natural Sciences": {
-    "message": "Naturfag"
+      "message": "Naturfag"
   },
   "Social Studies": {
-    "message": "Samfunnsfag"
+      "message": "Samfunnsfag"
   },
   "Spanish": {
-    "message": "Spansk"
+      "message": "Spansk"
   },
   "Credits": {
-    "message": "Kredit"
+      "message": "Kredit"
   },
   "stio": {
-    "message": "stio"
+      "message": "stio"
+  },
+  "School Subjects": {
+      "message": "Skole fag"
   }
 }

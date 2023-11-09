@@ -2,48 +2,49 @@
     
     [
         {
+            "_projectBoxHeader": "<tra>School Subjects</tra>",
             "_type": "B",
             "_id": "Main-Pages"
         },
         [
             {
                 "_projectHeader": "<tra>Math</tra>",
-                "_link": "https://settings.stio.studio",
+                "_link": "https://stio.studio/math",
                 "_projectType": "C"
             },
             {
                 "_projectHeader": "<tra>English</tra>",
-                "_link": "https://settings.stio.studio",
+                "_link": "https://stio.studio/english",
                 "_projectType": "C"
             },
             {
                 "_projectHeader": "<tra>Geography</tra>",
-                "_link": "https://settings.stio.studio",
+                "_link": "https://stio.studio/geography",
                 "_projectType": "C"
             },
             {
                 "_projectHeader": "<tra>Christianity</tra>",
-                "_link": "https://settings.stio.studio",
+                "_link": "https://stio.studio/christianity",
                 "_projectType": "C"
             },
             {
                 "_projectHeader": "<tra>Natural Sciences</tra>",
-                "_link": "https://settings.stio.studio",
+                "_link": "https://stio.studio/natural-sciences",
                 "_projectType": "C"
             },
             {
                 "_projectHeader": "<tra>Social Studies</tra>",
-                "_link": "https://settings.stio.studio",
+                "_link": "https://stio.studio/social-studies",
                 "_projectType": "C"
             },
             {
                 "_projectHeader": "<tra>Spanish</tra>",
-                "_link": "https://settings.stio.studio",
+                "_link": "https://stio.studio/spanish",
                 "_projectType": "C"
             },
             {
                 "_projectHeader": "<tra>Settings</tra>",
-                "_link": "https://settings.stio.studio",
+                "_link": "https://stio.studio/",
                 "_projectType": "C"
             }
         ]
