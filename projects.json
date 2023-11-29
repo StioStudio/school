@@ -9,42 +9,37 @@
         [
             {
                 "_projectHeader": "<tra>Math</tra>",
-                "_link": "https://stio.studio/math",
+                "_link": "https://school.stio.studio/math",
                 "_projectType": "C"
             },
             {
                 "_projectHeader": "<tra>English</tra>",
-                "_link": "https://stio.studio/english",
+                "_link": "https://school.stio.studio/english",
                 "_projectType": "C"
             },
             {
                 "_projectHeader": "<tra>Geography</tra>",
-                "_link": "https://stio.studio/geography",
+                "_link": "https://school.stio.studio/geography",
                 "_projectType": "C"
             },
             {
                 "_projectHeader": "<tra>Christianity</tra>",
-                "_link": "https://stio.studio/christianity",
+                "_link": "https://school.stio.studio/christianity",
                 "_projectType": "C"
             },
             {
                 "_projectHeader": "<tra>Natural Sciences</tra>",
-                "_link": "https://stio.studio/natural-sciences",
+                "_link": "https://school.stio.studio/natural-sciences",
                 "_projectType": "C"
             },
             {
                 "_projectHeader": "<tra>Social Studies</tra>",
-                "_link": "https://stio.studio/social-studies",
+                "_link": "https://school.stio.studio/social-studies",
                 "_projectType": "C"
             },
             {
                 "_projectHeader": "<tra>Spanish</tra>",
-                "_link": "https://stio.studio/spanish",
-                "_projectType": "C"
-            },
-            {
-                "_projectHeader": "<tra>Settings</tra>",
-                "_link": "https://stio.studio/",
+                "_link": "https://school.stio.studio/spanish",
                 "_projectType": "C"
             }
         ]
@@ -52,11 +47,16 @@
     [
         {
             "_type": "A",
-            "_projectBoxHeader": "<tra>Credits</tra>",
+            "_projectBoxHeader": "<tra>Extra</tra>",
             "_id": "Main-Pages",
             "_class": ["footer"]
         },
         [
+            {
+                "_projectHeader": "<tra>Settings</tra>",
+                "_link": "https://settings.stio.studio/",
+                "_projectType": "C"
+            },
             {
                 "_projectHeader": "<tra>stio</tra>",
                 "_link": "https://stio.studio",
