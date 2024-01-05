@@ -1,3 +1,4 @@
+info.language = info.language.cookie
 basicSetup()
 await lastUpdated({repo: "school", path: "index.html"})
 // let rem = await(await fetch("/assets/projects.json")).json()
@@ -7,5 +8,3 @@ contentCreate(rem)
 //     console.log(e)
 // });
 // console.log(i18n.createMessagesJSON())
-await i18n.setLanguage("no")
-i18n.translatePage()
